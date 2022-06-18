@@ -5,3 +5,6 @@ This repository contains the answer of Q6, Q8 in ZKU
 Purchase.sol contains code.
 Each screenshot #1 contains contract's state.
 Each screenshot #2 contains block.timestamp.
+
+# About Q8
+Q8 contains circom code and screenshot of the result.
